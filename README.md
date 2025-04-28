@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Harsh Tripathi
 - 👀 I’m interested in coding
+- 🔭 I’m working on my skills
 - 🌱 I’m currently learning Data Science, AI and ML
-- 💞️ I’m looking to collaborate on the projects of  AI and ML 
+- 💞️ I’m looking to collaborate on the projects of  AI and ML
+- 🤝 I’m looking for help with backend development. 
 - 📫 You can reach me through harshatripathi19@gmail.com
 
 <!---
